@@ -1,3 +1,8 @@
-fastapi
-uvicorn[standard]
-black
+fastapi[standard]
+pydantic[email]
+pydantic-settings
+python-dotenv
+sqlalchemy
+alembic
+psycopg2-binary
+httpx
